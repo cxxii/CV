@@ -21,7 +21,7 @@ _Financial Analyst_ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; *October 21 - April 23
 
 - Achieved an 80% reduction of the man-hours with automation of budget reporting
 - Responsible for liaising with numerous international stakeholders to scrutinize their retail revenue
-- Successfully utalized Pandas (python) to manipulate large financial datasets for analysis
+- Successfully utalised Pandas (python) to manipulate large financial datasets for analysis
 - Completed a finance hackathon in which data streams were redesigned to provide a clearer picture of balance sheet movement
 
 **[Crowe Horwath](https://www.crowe.com/global)**  
@@ -68,7 +68,7 @@ _Student_ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; *September 15 - May 19*
 
 - BSc Economics
 - 2:1
-- Modules: Statistics, Econometrics, Data-science, Game Theory, Corporate Finance, Financial Modelling, Macroeconmics I & II, Microeconmics I & II
+- Modules: Statistics, Econometrics, Data-science, Game Theory, Corporate Finance, Financial Modelling, Macroeconomics I & II, Microeconomics I & II
 
 ### **Certifications & Training**
 
