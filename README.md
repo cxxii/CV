@@ -43,8 +43,12 @@ _Financial Analyst_ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; *September 19 - Januar
 
 ## Skills 🧰
 
-#### A skill
-#### B Skill
+#### Teamplayer:  
+teamplayer info
+#### Communication  
+comms info
+#### Attention to detail  
+detail info
 
 <br>
 
