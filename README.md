@@ -1,6 +1,6 @@
 ## **[Callum Clark](linkedin.com)**
 
-**TL;DR:** A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+**TL;DR:** I am enthusiastic about utilizing my background in economics, finance and accounting, along with my experience working with multinational corporations and startup ventures in a new challenge as a software enginer. I have effectively thrived in fast-paced settings, delivering outcomes within tight deadlines, collaborating with staff through to C-level executives.
 
 <br>
 
@@ -19,7 +19,6 @@
 **[Marks & Spencer](https://www.marksandspencer.com/)**  
 _Financial Analyst_ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; *October 21 - April 23*
 
-
 - Achieved an 80% reduction of man-hours with automation of budget reporting
 - Responsible for liasing with numerous international stakeholders' to scrutinize their retail revenue
 - Successfully utalized Pandas (python) to manipulate large financial datasets for analysis
@@ -28,7 +27,6 @@ _Financial Analyst_ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; *October 21 - April 23
 **[Crowe Horwath](https://www.crowe.com/global)**  
 _Auditor II_ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; *January 20 - September 21*
 
-- 
 - Performed analytical procedures to detect unusual financial statement variances and assess the risk of material misstatement.
 - Successfully Worked with clients from variety of sectors: financial services, retail, manufacturing, IT, education and non-profit.
 - Confidently identified and communicated auditing issues with clients.
@@ -48,7 +46,6 @@ _Financial Analyst_ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; *September 19 - Januar
 #### A skill
 #### B Skill
 
-<br>
 <br>
 
 ## Education 🎓
@@ -71,13 +68,14 @@ _Student_ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; *September 15 - May 19*
 
 ### **Certifications & Training**
 
-- Makers Academy Bootcamp,  
-- ACA - Certificate Level,  
+- Makers Academy Bootcamp  
+- ACA - Certificate Level  
 - CIMA - Certificate Level
 
 <br>
 
 ## Activities & Interests 🏆
 
-Volunteering with British Heart Foundation and Muscular Dystrophy UK.  
-Obtaining my Private Pilots Licence, learning piano, ice hockey, lacrosse, squash, gym, chess. Peep Show.
+Volunteering with British Heart Foundation and Muscular Dystrophy UK  
+Obtaining my Private Pilots Licence, learning piano, ice hockey, lacrosse, squash, gym, chess. Peep Show  
+Awarded Time's Magazine Person of the Year 2006
