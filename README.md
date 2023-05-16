@@ -1,6 +1,6 @@
 ## **[Callum Clark](linkedin.com)**
 
-**TL;DR:** I am enthusiastic about utilizing my background in economics, finance and accounting, along with my experience working with multinational corporations and startup ventures in a new challenge as a software engineer. I have effectively thrived in fast-paced settings, delivering outcomes within tight deadlines, and collaborating with staff through to C-level executives.
+**TL;DR:** I am enthusiastic about utilizing my background in economics, finance and accounting, along with my experience working with multinational corporations and startup ventures in a new challenge as a software engineer. I have effectively thrived in fast-paced settings, delivering outcomes within tight deadlines, and collaborating with staff at all levels including C-level executives.
 
 <br>
 
