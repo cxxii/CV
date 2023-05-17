@@ -19,25 +19,27 @@
 **[Marks & Spencer](https://www.marksandspencer.com/)**  
 _Financial Analyst_ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; *October 21 - April 23*
 
-- Achieved an 80% reduction of the man-hours with automation of budget reporting
-- Responsible for liaising with numerous international stakeholders to scrutinize their retail revenue
-- Successfully utalised Pandas (python) to manipulate large financial datasets for analysis
-- Completed a finance hackathon in which data streams were redesigned to provide a clearer picture of balance sheet movement
+- Achieved an 80% reduction in man-hours with the automation of budget reporting.
+- Successfully utilized Pandas (python) to cleanse and validate financial datasets, resulting in enhanced report
+quality.
+- Completed a finance ‘hackathon’ in which data streams were redesigned to provide a clearer picture of balance sheet movement.
+- Responsible for liaising with numerous international stakeholders to scrutinize their retail revenue.
 
 **[Crowe Horwath](https://www.crowe.com/global)**  
 _Auditor II_ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; *January 20 - September 21*
 
-- Performed analytical procedures to detect unusual financial statement variances and assess the risk of material misstatement.
-- Successfully Worked with clients from a variety of sectors: financial services, retail, manufacturing, IT, education and non-profit.
-- Confidently identified and communicated auditing issues with clients.
+- Developed technical knowledge of accounting and auditing standards enabling me to effectively apply them in practice.
+- Accurately performed analytical testing leading to a comprehensive understanding of financial statement anomalies and an accurate assessment of potential material misstatements.
+- Gained valuable commercial experience having worked with clients from diverse sectors, including financial services, retail, manufacturing, IT, education and non-profit organizations.
 
 
 **[PPS Edenred](https://www.pps.edenred.com/)**  
 _Financial Analyst_ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; *September 19 - January 20*
 
-- Performed variance analysis using the QI to investigate variances in budgets and forecasts at month end
-- Prepared cost centre reports, using flash, actuals, budget and latest forecast.
+- Performed variance analysis utilizing QI to investigate discrepancies between actual results and budget/forecast figures at month end, increasing future model accuracy.
 - Responsible for the management of financial models, such as P&L, Overheads, Balance-Sheet and Cashflow.
+- Utilized PowerPoint to create presentations for C-level executives which accurately portrayed relevant financial information.
+
 
 <br>
 
