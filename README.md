@@ -1,6 +1,6 @@
 ## **[Callum Clark](linkedin.com)**
 
-**TL;DR:** I am enthusiastic about utilizing my background in economics, finance and accounting, along with my experience working with multinational corporations and startup ventures in a new challenge as a software engineer. I have effectively thrived in fast-paced settings, delivering outcomes within tight deadlines, and collaborating with staff at all levels including C-level executives.
+**TL;DR:** I am enthusiastic about utilizing my background in economics, finance and accounting, along with my experience working with multinational corporations and startup ventures in a new challenge as a software engineer. I have thrived in fast-paced settings, delivered solutions within tight deadlines, and collaborated with staff at all levels including C-level executives.
 
 <br>
 
@@ -8,8 +8,8 @@
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Yahtzee**            | Yahtzee but online | React, Jest, Cypress. |
-| **Acebook**      | [f]acebook social network app. | React, JS, HTML CSS              |
+| **Yahtzee**            | Yahtzee but online | React, Jest, MongoDB, Cypress |
+| **Acebook**      | [f]acebook social network app. | React, Javascript, HTML, CSS, MongoDB              |
 | **Till tech test**      | A basic implementation of an ATM | Python, Pytest              |
 
 <br>
